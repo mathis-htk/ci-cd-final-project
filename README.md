@@ -25,7 +25,8 @@ exit
 ```
 
 ## Tasks
-
+This project is the final project for the Coursera course **CI/CD Tools and Practices**.
+The project name is `ci-cd-final-project`.
 
 ## License
 
